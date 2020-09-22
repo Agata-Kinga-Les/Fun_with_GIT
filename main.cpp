@@ -6,6 +6,8 @@ int main()
 	
 	int z = 0;
 	int y = 0;
+
+	int ala = 0;
 	
 	return 0;
 }
