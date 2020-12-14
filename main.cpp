@@ -10,6 +10,11 @@ int Mul(int a, int b)
 	return a * b;
 }
 
+int Div(int a, int b)
+{
+	return a / b;
+}
+
 int main()
 {
 	std::cout<<"Hello Fun with GIT"<<std::endl;
