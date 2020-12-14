@@ -2,7 +2,7 @@
 
 int Add(int a, int b)
 {
-	return a + b;
+	return a + b + 3;
 }
 
 int Mul(int a, int b)
